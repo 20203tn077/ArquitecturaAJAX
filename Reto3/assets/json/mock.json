@@ -1,0 +1,340 @@
+{
+    "message": "Successful operation",
+    "data": [
+        {
+            "id": 8,
+            "isbn": "0136110573",
+            "title": "A Dance With Dragons",
+            "description": "The aftermath of a colossal battle",
+            "published_date": "2011-06-15",
+            "category_id": 4,
+            "editorial_id": 4,
+            "authors": [
+                {
+                    "id": 10,
+                    "name": "George R.R.",
+                    "first_surname": "Martin",
+                    "second_surname": null,
+                    "pivot": {
+                        "books_id": 8,
+                        "authors_id": 10
+                    }
+                }
+            ],
+            "category": {
+                "id": 4,
+                "name": "Fantasy"
+            },
+            "editorial": {
+                "id": 4,
+                "name": "Bantam Books"
+            },
+            "book_download": {
+                "id": 9,
+                "total_downloads": 0,
+                "book_id": 8
+            },
+            "book_reviews": []
+        },
+        {
+            "id": 9,
+            "isbn": "0136175649",
+            "title": "A storm of swords",
+            "description": "Alliances are made and broken",
+            "published_date": "2000-08-07",
+            "category_id": 4,
+            "editorial_id": 4,
+            "authors": [
+                {
+                    "id": 10,
+                    "name": "George R.R.",
+                    "first_surname": "Martin",
+                    "second_surname": null,
+                    "pivot": {
+                        "books_id": 9,
+                        "authors_id": 10
+                    }
+                }
+            ],
+            "category": {
+                "id": 4,
+                "name": "Fantasy"
+            },
+            "editorial": {
+                "id": 4,
+                "name": "Bantam Books"
+            },
+            "book_download": {
+                "id": 10,
+                "total_downloads": 0,
+                "book_id": 9
+            },
+            "book_reviews": []
+        },
+        {
+            "id": 4,
+            "isbn": "0136138265",
+            "title": "Fahrenheit 451",
+            "description": "The system was simple...",
+            "published_date": "1953-12-23",
+            "category_id": 2,
+            "editorial_id": 6,
+            "authors": [
+                {
+                    "id": 6,
+                    "name": "Ray",
+                    "first_surname": "Bradbury",
+                    "second_surname": null,
+                    "pivot": {
+                        "books_id": 4,
+                        "authors_id": 6
+                    }
+                }
+            ],
+            "category": {
+                "id": 2,
+                "name": "Science fiction"
+            },
+            "editorial": {
+                "id": 6,
+                "name": "Ballantine Books"
+            },
+            "book_download": {
+                "id": 5,
+                "total_downloads": 0,
+                "book_id": 4
+            },
+            "book_reviews": []
+        },
+        {
+            "id": 3,
+            "isbn": "0136136791",
+            "title": "Fundamentos de programación",
+            "description": "Programming book",
+            "published_date": "2008-04-12",
+            "category_id": 1,
+            "editorial_id": 3,
+            "authors": [
+                {
+                    "id": 4,
+                    "name": "Luis",
+                    "first_surname": "Joyanes",
+                    "second_surname": "Aguilar",
+                    "pivot": {
+                        "books_id": 3,
+                        "authors_id": 4
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "Ignacio",
+                    "first_surname": "Zahonero",
+                    "second_surname": "Martínez",
+                    "pivot": {
+                        "books_id": 3,
+                        "authors_id": 5
+                    }
+                }
+            ],
+            "category": {
+                "id": 1,
+                "name": "Computing"
+            },
+            "editorial": {
+                "id": 3,
+                "name": "McGraw Hill"
+            },
+            "book_download": {
+                "id": 4,
+                "total_downloads": 0,
+                "book_id": 3
+            },
+            "book_reviews": []
+        },
+        {
+            "id": 1,
+            "isbn": "0136152503",
+            "title": "How to program C++",
+            "description": "Programming book",
+            "published_date": "2005-12-21",
+            "category_id": 1,
+            "editorial_id": 1,
+            "authors": [
+                {
+                    "id": 1,
+                    "name": "Harvey",
+                    "first_surname": "Deitel",
+                    "second_surname": null,
+                    "pivot": {
+                        "books_id": 1,
+                        "authors_id": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Paul",
+                    "first_surname": "Deitel",
+                    "second_surname": null,
+                    "pivot": {
+                        "books_id": 1,
+                        "authors_id": 2
+                    }
+                }
+            ],
+            "category": {
+                "id": 1,
+                "name": "Computing"
+            },
+            "editorial": {
+                "id": 1,
+                "name": "Pearson"
+            },
+            "book_download": {
+                "id": 1,
+                "total_downloads": 0,
+                "book_id": 1
+            },
+            "book_reviews": []
+        },
+        {
+            "id": 7,
+            "isbn": "0136112057",
+            "title": "Le Petit Prince",
+            "description": "What is important in life",
+            "published_date": "1943-04-30",
+            "category_id": 4,
+            "editorial_id": 5,
+            "authors": [
+                {
+                    "id": 11,
+                    "name": "Antoine",
+                    "first_surname": "de Saint-Exupéry",
+                    "second_surname": null,
+                    "pivot": {
+                        "books_id": 7,
+                        "authors_id": 11
+                    }
+                }
+            ],
+            "category": {
+                "id": 4,
+                "name": "Fantasy"
+            },
+            "editorial": {
+                "id": 5,
+                "name": "Harcourt"
+            },
+            "book_download": {
+                "id": 8,
+                "total_downloads": 0,
+                "book_id": 7
+            },
+            "book_reviews": []
+        },
+        {
+            "id": 2,
+            "isbn": "0136152921",
+            "title": "Metodología de la programación",
+            "description": "Programming book",
+            "published_date": "2005-12-21",
+            "category_id": 1,
+            "editorial_id": 2,
+            "authors": [
+                {
+                    "id": 3,
+                    "name": "Osvaldo",
+                    "first_surname": "Cairó",
+                    "second_surname": "Battistutti",
+                    "pivot": {
+                        "books_id": 2,
+                        "authors_id": 3
+                    }
+                }
+            ],
+            "category": {
+                "id": 1,
+                "name": "Computing"
+            },
+            "editorial": {
+                "id": 2,
+                "name": "Alfaomega"
+            },
+            "book_download": {
+                "id": 3,
+                "total_downloads": 0,
+                "book_id": 2
+            },
+            "book_reviews": []
+        },
+        {
+            "id": 5,
+            "isbn": "0136110305",
+            "title": "The Shining",
+            "description": "A classic thriller",
+            "published_date": "1977-06-12",
+            "category_id": 3,
+            "editorial_id": 7,
+            "authors": [
+                {
+                    "id": 7,
+                    "name": "Stephen",
+                    "first_surname": "King",
+                    "second_surname": null,
+                    "pivot": {
+                        "books_id": 5,
+                        "authors_id": 7
+                    }
+                }
+            ],
+            "category": {
+                "id": 3,
+                "name": "Horror"
+            },
+            "editorial": {
+                "id": 7,
+                "name": "Pocket Books"
+            },
+            "book_download": {
+                "id": 6,
+                "total_downloads": 0,
+                "book_id": 5
+            },
+            "book_reviews": []
+        },
+        {
+            "id": 6,
+            "isbn": "0136182366",
+            "title": "The Two Towers",
+            "description": "Second Part of The Lord of the Rings",
+            "published_date": "1954-12-24",
+            "category_id": 4,
+            "editorial_id": 8,
+            "authors": [
+                {
+                    "id": 9,
+                    "name": "J.R.R",
+                    "first_surname": "Tolkien",
+                    "second_surname": null,
+                    "pivot": {
+                        "books_id": 6,
+                        "authors_id": 9
+                    }
+                }
+            ],
+            "category": {
+                "id": 4,
+                "name": "Fantasy"
+            },
+            "editorial": {
+                "id": 8,
+                "name": "Houghton Mifflin Company"
+            },
+            "book_download": {
+                "id": 7,
+                "total_downloads": 0,
+                "book_id": 6
+            },
+            "book_reviews": []
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+  "ip": "187.214.41.60",
+  "success": true,
+  "type": "IPv4",
+  "continent": "North America",
+  "continent_code": "NA",
+  "country": "Mexico",
+  "country_code": "MX",
+  "region": "Morelos",
+  "region_code": "MOR",
+  "city": "Fraccionamiento los Laureles",
+  "latitude": 18.7449168,
+  "longitude": -99.1989046,
+  "is_eu": false,
+  "postal": "62772",
+  "calling_code": "52",
+  "capital": "Mexico City",
+  "borders": "BZ,GT,US",
+  "flag": {
+    "img": "https://cdn.ipwhois.io/flags/mx.svg",
+    "emoji": "\ud83c\uddf2\ud83c\uddfd",
+    "emoji_unicode": "U+1F1F2 U+1F1FD"
+  },
+  "connection": {
+    "asn": 8151,
+    "org": "Uninet S.A. de C.V.",
+    "isp": "Uninet S.A. de C.V.",
+    "domain": "uninet.com.mx"
+  },
+  "timezone": {
+    "id": "America/Mexico_City",
+    "abbr": "CST",
+    "is_dst": false,
+    "offset": -21600,
+    "utc": "-06:00",
+    "current_time": "2022-11-16T12:44:11-06:00"
+  }
+}
